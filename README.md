@@ -267,3 +267,7 @@ Hello — I’m <strong>[YOUR NAME]</strong>. I write clean, maintainable code a
 </ul>
 
 <p style="color:#68756B;">If you want, I can now replace the remaining placeholders with a preferred display name and links, and adjust the featured projects list. Tell me the display name and which repos (or leave the selected ones) and I’ll finalize the README.</p>
+
+
+
+demo1-kristina-creative-developer.localhost:8000
