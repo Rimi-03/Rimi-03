@@ -270,4 +270,5 @@ Hello — I’m <strong>[YOUR NAME]</strong>. I write clean, maintainable code a
 
 
 
-demo1-kristina-creative-developer.localhost:8000
+[demo1-kristina-creative-developer.localhost:8000
+](http://demo1-kristina-creative-developer.localhost:8000/)
