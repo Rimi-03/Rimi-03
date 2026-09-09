@@ -189,6 +189,7 @@ A student record management system with intuitive CRUD operations for adding, vi
 
 ![Followers](https://img.shields.io/github/followers/Rimi-03?style=flat-square&color=34432F&labelColor=263326)
 ![Repositories](https://img.shields.io/badge/Repositories-19-34432F?style=flat-square&labelColor=263326)
+![Profile Views](https://komarev.com/ghpvc/?username=Rimi-03&style=flat-square&color=34432F&label=Profile+Views)
 
 </div>
 
