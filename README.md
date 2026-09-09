@@ -51,9 +51,31 @@ Hands-on experience with practical development including frontend implementation
 
 ---
 
-## 🚀 Featured Project
+## ⭐ Featured Project
 
-### ⚙️ SmartCart — Full-Stack E-Commerce Platform
+<div align="center">
+
+### ◆ PortfolioHub
+
+**Multi-Tenant SaaS Portfolio Builder**
+
+A full-stack portfolio platform enabling users to create and manage professional portfolio websites through customizable templates, multi-tenant architecture, and centralized management.
+
+- Laravel + Vue 3 + Inertia.js full-stack application
+- Multi-tenant architecture with tenant isolation
+- Portfolio template system and custom editor
+- Admin dashboard and tenant management
+- Subscription-based SaaS functionality
+
+**Stack**: `Laravel` `Vue 3` `Inertia.js` `MySQL` `Vite`
+
+</div>
+
+---
+
+## 🚀 Other Projects
+
+### 💳 SmartCart — Full-Stack E-Commerce Platform
 
 A complete e-commerce application built with **React** (frontend) and **Laravel** (backend), featuring:
 - User authentication and authorization
@@ -65,11 +87,7 @@ A complete e-commerce application built with **React** (frontend) and **Laravel*
 
 **Stack**: `React` `Laravel` `PHP` `MySQL` `Stripe` `REST API`
 
-This project demonstrates end-to-end full-stack development, payment integration, and scalable application architecture.
-
 ---
-
-## 🛠️ Selected Projects
 
 ### 📱 E-Commerce Mobile Application
 A modern mobile platform built with **Flutter** and **Firebase**, featuring product browsing, wishlist management, secure authentication, and order workflows with elegant UI and GetX state management.
@@ -167,29 +185,50 @@ A student record management system with intuitive CRUD operations for adding, vi
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Statistics
 
 <div align="center">
 
 ![Followers](https://img.shields.io/github/followers/Rimi-03?style=flat-square&color=34432F&labelColor=263326)
 ![Repositories](https://img.shields.io/badge/Repositories-19-34432F?style=flat-square&labelColor=263326)
 
-<br/><br/>
+</div>
 
-<a href="https://github.com/Rimi-03">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rimi-03&theme=dark"
-    alt="GitHub Profile Summary"
-    width="100%"
-  />
-</a>
+---
+
+## 🔥 Contribution Overview
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Rimi-03">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rimi-03&theme=dark"
+          alt="GitHub Profile Summary"
+          width="100%"
+        />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Rimi-03">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rimi-03&theme=dark"
+          alt="Top Languages"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <a href="https://github.com/Rimi-03">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rimi-03&theme=dark"
-    alt="Top Languages"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Rimi-03&theme=dark&hide_border=true&background=263326&stroke=56664A&ring=78866B&fire=E8E1C8&currStreakLabel=78866B&sideLabels=56664A&sideNums=E8E1C8"
+    alt="GitHub Contribution Streak"
     width="100%"
   />
 </a>
