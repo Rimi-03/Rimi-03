@@ -1,874 +1,235 @@
 <div align="center">
 
-<!-- ============================================================ -->
-<!--                     SAGE + CREAM HEADER                     -->
-<!-- ============================================================ -->
-
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:263326,25:3F5138,50:6F7F5B,75:A3B18A,100:DAD7B9&height=230&section=header&text=KHADIZA%20SULTANA%20CHOWDHURY%20RIMI&fontSize=38&fontColor=FFF9E8&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Software%20Developer%20%7C%20Web%20Development&descAlignY=58&descSize=17&descColor=F5F0DC"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:263326,25:34432F,50:56664A,75:78866B,100:E8E1C8&height=230&section=header&text=Khadiza%20Sultana%20Chowdhury&fontSize=42&fontColor=F4EEDB&desc=Building%20practical%20software%20systems"
 />
 
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com/">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=A3B18A&center=true&vCenter=true&width=850&lines=Building+Practical+Software;Learning+Through+Real+Projects;Developing+Modern+Web+Applications;Vue.js+%E2%80%A2+Laravel+%E2%80%A2+PHP+%E2%80%A2+MySQL;Build+%E2%80%A2+Learn+%E2%80%A2+Improve"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=56664A&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Web+Application+Architecture;Database+Design;UI%2FUX+Implementation"
     alt="Typing SVG"
   />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-Web%20Development-6F7F5B?style=for-the-badge&labelColor=263326"/>
-<img src="https://img.shields.io/badge/Frontend-Vue%20%7C%20JavaScript-A3B18A?style=for-the-badge&labelColor=263326"/>
-<img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20PHP-87986A?style=for-the-badge&labelColor=263326"/>
-<img src="https://img.shields.io/badge/Database-MySQL-DAD7B9?style=for-the-badge&labelColor=263326"/>
-
 </div>
 
-<br/>
+---
+
+## 👩‍💻 About Me
+
+I'm a **Software Engineering student** building practical web applications with modern technologies. I focus on **full-stack development**, **database design**, and **UI/UX implementation**.
+
+My development work spans across:
+- **Frontend**: Vue.js, React, JavaScript, responsive design
+- **Backend**: Laravel, PHP, REST API development
+- **Mobile**: Flutter and Dart for cross-platform applications
+- **Database**: MySQL, SQL, database architecture
+- **Full-Stack**: End-to-end application development with CRUD operations, authentication, and real-world workflows
+
+I'm particularly focused on creating applications that solve real problems while maintaining clean, understandable code.
 
 ---
 
-# `> SYSTEM.IDENTITY`
+## 🎓 Education & Experience
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│             KHADIZA SULTANA CHOWDHURY RIMI                  │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  ROLE        → Software Engineering Student                 │
-│  EXPERIENCE  → Software Development Intern                  │
-│  SPECIALTY   → Web Development • Full-Stack Applications   │
-│  FRONTEND    → Vue.js • JavaScript • HTML • CSS             │
-│  BACKEND     → Laravel • PHP                                │
-│  DATABASE    → MySQL • SQL                                  │
-│  TOOLS       → Git • GitHub • Vite • XAMPP • Figma          │
-│  CURRENT     → Building & Improving PortfolioHub            │
-│  MINDSET     → Build • Learn • Improve                       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-````
+### Software Engineering Student
+Currently pursuing a **BSc (Hons) in Software Engineering** with academic foundation in:
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Database Design & Management
+- Software Architecture
 
-> **I enjoy turning ideas and requirements into practical software, while continuously improving my development, problem-solving, and UI/UX skills.**
-
----
-
-# 👩‍💻 About Me
-
-I'm a **Software Engineering student** with hands-on experience in **web development** and practical software projects.
-
-My development journey has involved building applications using technologies such as **Vue.js, Laravel, PHP, JavaScript, MySQL, Bootstrap, Tailwind CSS, and Vite**, while also exploring **React, Java, Python, C, C++, Flutter, and Dart**.
-
-I enjoy working across different parts of an application — from creating responsive interfaces and implementing application logic to designing databases, building CRUD functionality, debugging issues, and connecting frontend and backend systems.
-
-Currently, I'm particularly focused on strengthening my skills in:
-
-* Full-stack web development
-* Vue.js application development
-* Laravel & PHP
-* Database-driven applications
-* REST APIs
-* UI/UX implementation
-* Authentication and application workflows
-* SaaS and multi-tenant applications
-* Clean and maintainable code
-
----
-
-# 🎓 Education & Experience
-
-### 🎓 BSc (Hons) in Software Engineering
-
-Currently studying **Software Engineering**, with academic experience in:
-
-* Structured Programming
-* Data Structures
-* Algorithms
-* Object-Oriented Programming
-* Database concepts
-* Software development fundamentals
-
-### 💼 Software Development Intern
-
+### Software Development Intern
 **IT Lab Solutions Ltd.**
 
-Working on practical software development and web-based projects, gaining experience with:
-
-* Frontend development
-* Backend development
-* Database integration
-* Web application workflows
-* Debugging and troubleshooting
-* UI implementation
-* Real-world software development practices
+Hands-on experience with practical development including frontend implementation, backend architecture, database integration, and real-world debugging.
 
 ---
 
-# 🚀 Flagship Project
+## 🚀 Featured Project
 
+### ⚙️ SmartCart — Full-Stack E-Commerce Platform
+
+A complete e-commerce application built with **React** (frontend) and **Laravel** (backend), featuring:
+- User authentication and authorization
+- Product catalog with search and filtering
+- Shopping cart management
+- Multi-step checkout workflow
+- Order tracking and management
+- Stripe & COD payment integration
+
+**Stack**: `React` `Laravel` `PHP` `MySQL` `Stripe` `REST API`
+
+This project demonstrates end-to-end full-stack development, payment integration, and scalable application architecture.
+
+---
+
+## 🛠️ Selected Projects
+
+### 📱 E-Commerce Mobile Application
+A modern mobile platform built with **Flutter** and **Firebase**, featuring product browsing, wishlist management, secure authentication, and order workflows with elegant UI and GetX state management.
+
+**Stack**: `Flutter` `Dart` `Firebase` `GetX`
+
+---
+
+### 🏥 CareHub — Hospital Management System
+A digital solution for healthcare administrative workflows, streamlining operations for medical receptionists and facility management.
+
+**Stack**: `Full-Stack Application`
+
+---
+
+### 💬 LinkClick ChatApp
+A Python-based chat application featuring client-server architecture with socket programming, public and private messaging, user management, message encryption, and block functionality.
+
+**Stack**: `Python` `Tkinter` `Socket Programming`
+
+---
+
+### 📚 EduTrack
+A student record management system with intuitive CRUD operations for adding, viewing, editing, and deleting student data using local storage.
+
+**Stack**: `HTML` `Tailwind CSS` `JavaScript`
+
+---
+
+## 💻 Technology Stack
+
+### Frontend
 <div align="center">
 
-## 🌿 PortfolioHub
-
-### **A Multi-Tenant SaaS Portfolio Builder**
+![Vue.js](https://img.shields.io/badge/Vue.js-34432F?style=flat-square&logo=vue.js&logoColor=E8E1C8)
+![React](https://img.shields.io/badge/React-34432F?style=flat-square&logo=react&logoColor=E8E1C8)
+![JavaScript](https://img.shields.io/badge/JavaScript-34432F?style=flat-square&logo=javascript&logoColor=E8E1C8)
+![HTML5](https://img.shields.io/badge/HTML5-34432F?style=flat-square&logo=html5&logoColor=E8E1C8)
+![CSS3](https://img.shields.io/badge/CSS3-34432F?style=flat-square&logo=css3&logoColor=E8E1C8)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-34432F?style=flat-square&logo=tailwindcss&logoColor=E8E1C8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-34432F?style=flat-square&logo=bootstrap&logoColor=E8E1C8)
 
 </div>
 
-PortfolioHub is a SaaS-focused portfolio platform I'm working on for creating and managing professional portfolio websites through customizable templates and centralized management.
-
-The project combines **frontend development, backend architecture, database management, authentication, subscriptions, payments, tenant management, and portfolio publishing**.
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                        PORTFOLIOHUB                          │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Frontend       → Vue 3 + Inertia.js + Pinia                │
-│  Backend        → Laravel + PHP                             │
-│  Database       → MySQL / Tenant Databases                  │
-│  Architecture   → Multi-Tenant Application                  │
-│  Payments       → Stripe                                    │
-│  Build System   → Vite                                      │
-│                                                             │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  ✓ Portfolio Templates                                      │
-│  ✓ Portfolio Editor                                         │
-│  ✓ Multi-Tenant Architecture                                │
-│  ✓ Tenant Provisioning                                      │
-│  ✓ Subscription Plans                                       │
-│  ✓ Free Trial Workflow                                      │
-│  ✓ Stripe Payment Integration                               │
-│  ✓ Invoice Workflows                                        │
-│  ✓ Custom Branding                                          │
-│  ✓ SEO Settings                                              │
-│  ✓ Media Management                                          │
-│  ✓ Portfolio Visibility                                     │
-│  ✓ Admin Dashboard                                           │
-│  ✓ Analytics                                                 │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🏗️ PortfolioHub Architecture
-
-### Central Application
-
-```text
-                         ┌───────────────┐
-                         │     USERS     │
-                         └───────┬───────┘
-                                 │
-             ┌───────────────────┼───────────────────┐
-             │                   │                   │
-             ▼                   ▼                   ▼
-         Tenants             Templates          Purchases
-             │                   │                   │
-             └───────────────────┼───────────────────┘
-                                 │
-                                 ▼
-                            Domains
-                                 │
-                                 ▼
-                       Subscription System
-```
-
-### Tenant Application
-
-```text
-                         ┌────────────────┐
-                         │     TENANT     │
-                         └───────┬────────┘
-                                 │
-             ┌───────────────────┼───────────────────┐
-             │                   │                   │
-             ▼                   ▼                   ▼
-        Portfolio            Sections             Media
-             │                   │                   │
-             └───────────────────┼───────────────────┘
-                                 │
-                      ┌──────────┴──────────┐
-                      ▼                     ▼
-                  Branding                 SEO
-                      │                     │
-                      └──────────┬──────────┘
-                                 ▼
-                       Portfolio Settings
-```
-
----
-
-# 🧩 What I'm Building
-
-## 🎨 Frontend & UI/UX
-
-* Responsive web interfaces
-* Vue.js applications
-* Vue Router
-* Pinia state management
-* Inertia.js applications
-* Tailwind CSS
-* Bootstrap
-* Component-based interfaces
-* Interactive dashboards
-* CRUD interfaces
-* Responsive layouts
-* UI refinement
-* Theme and branding systems
-
-## ⚙️ Backend Development
-
-* Laravel applications
-* PHP backend development
-* REST API integration
-* Authentication
-* Authorization
-* CRUD operations
-* Server-side validation
-* Database-driven applications
-* Business workflows
-* Application debugging
-
-## 🏢 SaaS & Multi-Tenancy
-
-* Multi-tenant architecture
-* Tenant database isolation
-* Tenant provisioning
-* Subscription management
-* Plan-based feature access
-* Portfolio/site builders
-* Admin management
-* User management
-* Tenant dashboards
-
-## 💳 Payment & Subscription Systems
-
-* Stripe integration
-* Checkout workflows
-* Subscription management
-* Trial workflows
-* Payment status handling
-* Invoice workflows
-* Payment methods
-* Webhook-based workflows
-
----
-
-# 🛠️ Technology Arsenal
-
-## 🎨 Frontend
-
+### Backend
 <div align="center">
 
-<img src="https://img.shields.io/badge/Vue.js-263326?style=for-the-badge&logo=vue.js&logoColor=A3B18A"/>
-<img src="https://img.shields.io/badge/React-263326?style=for-the-badge&logo=react&logoColor=DAD7B9"/>
-<img src="https://img.shields.io/badge/JavaScript-263326?style=for-the-badge&logo=javascript&logoColor=A3B18A"/>
-<img src="https://img.shields.io/badge/HTML5-263326?style=for-the-badge&logo=html5&logoColor=DAD7B9"/>
-<img src="https://img.shields.io/badge/CSS3-263326?style=for-the-badge&logo=css3&logoColor=A3B18A"/>
-<img src="https://img.shields.io/badge/Bootstrap-263326?style=for-the-badge&logo=bootstrap&logoColor=DAD7B9"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-263326?style=for-the-badge&logo=tailwindcss&logoColor=A3B18A"/>
-<img src="https://img.shields.io/badge/Inertia.js-263326?style=for-the-badge&logo=inertia&logoColor=DAD7B9"/>
+![Laravel](https://img.shields.io/badge/Laravel-34432F?style=flat-square&logo=laravel&logoColor=E8E1C8)
+![PHP](https://img.shields.io/badge/PHP-34432F?style=flat-square&logo=php&logoColor=E8E1C8)
+![REST API](https://img.shields.io/badge/REST%20API-34432F?style=flat-square&logo=api&logoColor=E8E1C8)
+
+</div>
+
+### Databases & Storage
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-34432F?style=flat-square&logo=mysql&logoColor=E8E1C8)
+![Firebase](https://img.shields.io/badge/Firebase-34432F?style=flat-square&logo=firebase&logoColor=E8E1C8)
+![SQL](https://img.shields.io/badge/SQL-34432F?style=flat-square&logo=database&logoColor=E8E1C8)
+
+</div>
+
+### Languages
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-34432F?style=flat-square&logo=javascript&logoColor=E8E1C8)
+![PHP](https://img.shields.io/badge/PHP-34432F?style=flat-square&logo=php&logoColor=E8E1C8)
+![Python](https://img.shields.io/badge/Python-34432F?style=flat-square&logo=python&logoColor=E8E1C8)
+![Dart](https://img.shields.io/badge/Dart-34432F?style=flat-square&logo=dart&logoColor=E8E1C8)
+![Java](https://img.shields.io/badge/Java-34432F?style=flat-square&logo=openjdk&logoColor=E8E1C8)
+![C++](https://img.shields.io/badge/C%2B%2B-34432F?style=flat-square&logo=cplusplus&logoColor=E8E1C8)
+
+</div>
+
+### Tools & Workflow
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-34432F?style=flat-square&logo=git&logoColor=E8E1C8)
+![GitHub](https://img.shields.io/badge/GitHub-34432F?style=flat-square&logo=github&logoColor=E8E1C8)
+![VS Code](https://img.shields.io/badge/VS%20Code-34432F?style=flat-square&logo=visualstudiocode&logoColor=E8E1C8)
+![Vite](https://img.shields.io/badge/Vite-34432F?style=flat-square&logo=vite&logoColor=E8E1C8)
 
 </div>
 
 ---
 
-## ⚙️ Backend
+## 🏆 Development Strengths
+
+| Frontend | Backend | Database | Architecture |
+|----------|---------|----------|---------------|
+| Vue.js & React | Laravel & PHP | MySQL Design | Full-Stack Systems |
+| Responsive Design | REST APIs | Data Modeling | CRUD Operations |
+| Component Architecture | Authentication | Query Optimization | Scalable Design |
+| Interactive UIs | Server Logic | SQL | State Management |
+
+---
+
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Laravel-263326?style=for-the-badge&logo=laravel&logoColor=A3B18A"/>
-<img src="https://img.shields.io/badge/PHP-263326?style=for-the-badge&logo=php&logoColor=DAD7B9"/>
-<img src="https://img.shields.io/badge/REST%20API-263326?style=for-the-badge&logo=fastapi&logoColor=A3B18A"/>
-
-</div>
-
----
-
-## 🗄️ Databases
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/MySQL-263326?style=for-the-badge&logo=mysql&logoColor=DAD7B9"/>
-<img src="https://img.shields.io/badge/SQL-263326?style=for-the-badge&logo=sqlite&logoColor=A3B18A"/>
-<img src="https://img.shields.io/badge/MariaDB-263326?style=for-the-badge&logo=mariadb&logoColor=DAD7B9"/>
-
-</div>
-
----
-
-## 💻 Programming Languages
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-263326?style=for-the-badge&logo=openjdk&logoColor=A3B18A"/>
-<img src="https://img.shields.io/badge/Python-263326?style=for-the-badge&logo=python&logoColor=DAD7B9"/>
-<img src="https://img.shields.io/badge/C%2B%2B-263326?style=for-the-badge&logo=cplusplus&logoColor=A3B18A"/>
-<img src="https://img.shields.io/badge/C-263326?style=for-the-badge&logo=c&logoColor=DAD7B9"/>
-<img src="https://img.shields.io/badge/Dart-263326?style=for-the-badge&logo=dart&logoColor=A3B18A"/>
-
-</div>
-
----
-
-## 📱 Mobile
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Flutter-263326?style=for-the-badge&logo=flutter&logoColor=A3B18A"/>
-<img src="https://img.shields.io/badge/Dart-263326?style=for-the-badge&logo=dart&logoColor=DAD7B9"/>
-
-</div>
-
----
-
-## 🛠️ Tools & Workflow
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Git-263326?style=for-the-badge&logo=git&logoColor=A3B18A"/>
-<img src="https://img.shields.io/badge/GitHub-263326?style=for-the-badge&logo=github&logoColor=DAD7B9"/>
-<img src="https://img.shields.io/badge/Vite-263326?style=for-the-badge&logo=vite&logoColor=A3B18A"/>
-<img src="https://img.shields.io/badge/Figma-263326?style=for-the-badge&logo=figma&logoColor=DAD7B9"/>
-<img src="https://img.shields.io/badge/VS%20Code-263326?style=for-the-badge&logo=visualstudiocode&logoColor=A3B18A"/>
-<img src="https://img.shields.io/badge/XAMPP-263326?style=for-the-badge&logo=xampp&logoColor=DAD7B9"/>
-<img src="https://img.shields.io/badge/phpMyAdmin-263326?style=for-the-badge&logo=phpmyadmin&logoColor=A3B18A"/>
-
-</div>
-
----
-
-# 🚀 Selected Projects
-
-## 🌿 PortfolioHub
-
-### Multi-Tenant SaaS Portfolio Builder
-
-A portfolio platform focused on customizable templates, tenant management, subscriptions, branding, analytics, and professional portfolio publishing.
-
-**Stack**
-
-`Laravel` `Vue 3` `Inertia.js` `Pinia` `PHP` `MySQL` `Stripe` `Vite`
-
----
-
-## 📝 NotesHub
-
-### Sticky Notes Management Application
-
-A CRUD-based application for creating and managing sticky notes with status management, filtering, statistics, and PDF generation.
-
-**Stack**
-
-`Vue 3` `Pinia` `Tailwind CSS` `Vue Router`
-
----
-
-## 📇 ConnectBook
-
-### Contact Management Application
-
-A contact management application supporting CRUD operations and organized contact workflows.
-
-**Stack**
-
-`Vue 3` `Pinia` `Tailwind CSS` `REST API`
-
----
-
-## 🚗 Vehicle Rental System
-
-### Java Desktop Application
-
-A Java Swing-based vehicle rental system designed around rental management and GUI-based application workflows.
-
-**Stack**
-
-`Java` `Java Swing` `OOP`
-
----
-
-# 🧠 Development Focus
-
-My current development interests include:
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                  CURRENT DEVELOPMENT FOCUS               │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  → Vue.js Application Development                        │
-│  → Laravel & PHP                                         │
-│  → Full-Stack Web Applications                            │
-│  → MySQL & Database Design                                │
-│  → REST API Integration                                   │
-│  → SaaS Development                                       │
-│  → Multi-Tenant Architecture                              │
-│  → Subscription & Payment Systems                         │
-│  → Responsive UI/UX                                       │
-│  → Authentication & Authorization                          │
-│  → Application Debugging                                  │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🏢 SaaS Architecture
-
-One of my main areas of practical learning is **multi-tenant application architecture**.
-
-```text
-                       ┌──────────────────────┐
-                       │     PORTFOLIOHUB     │
-                       │       PLATFORM       │
-                       └──────────┬───────────┘
-                                  │
-                  ┌───────────────┴───────────────┐
-                  │                               │
-                  ▼                               ▼
-        ┌──────────────────┐            ┌──────────────────┐
-        │ CENTRAL DATABASE │            │ TENANT DATABASE  │
-        ├──────────────────┤            ├──────────────────┤
-        │ Users            │            │ Portfolio        │
-        │ Tenants          │            │ Sections         │
-        │ Templates        │            │ Media            │
-        │ Purchases        │            │ Settings         │
-        │ Subscriptions    │            │ Branding         │
-        │ Domains          │            │ Analytics        │
-        └─────────┬────────┘            └─────────┬────────┘
-                  │                               │
-                  └───────────────┬───────────────┘
-                                  │
-                                  ▼
-                         PUBLIC PORTFOLIO
-```
-
-### Core Concepts
-
-* Tenant isolation
-* Centralized platform management
-* Tenant-specific data
-* Template-driven rendering
-* Subscription-based features
-* Dynamic content management
-* Public portfolio publishing
-* Admin-level controls
-
----
-
-# 💳 Payment Workflow
-
-```text
-                     ┌───────────────┐
-                     │     USER      │
-                     └───────┬───────┘
-                             │
-                             ▼
-                     ┌───────────────┐
-                     │  PLAN / TRIAL │
-                     └───────┬───────┘
-                             │
-                             ▼
-                     ┌───────────────┐
-                     │ PAYMENT FLOW  │
-                     └───────┬───────┘
-                             │
-                             ▼
-                     ┌───────────────┐
-                     │    STRIPE     │
-                     └───────┬───────┘
-                             │
-                    ┌────────┴────────┐
-                    ▼                 ▼
-                Payment          Subscription
-                Method             / Invoice
-                    │                 │
-                    └────────┬────────┘
-                             │
-                             ▼
-                     ┌───────────────┐
-                     │   PURCHASE    │
-                     │   ACTIVATED   │
-                     └───────────────┘
-```
-
-### Areas I'm Exploring
-
-`Stripe API` · `Subscriptions` · `Checkout`
-
-`Invoices` · `Payment Methods` · `Webhooks`
-
----
-
-# 🧩 Engineering Domains
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 🎨
-
-## UI / UX
-
-Responsive Interfaces
-
-Component Design
-
-Dashboard UX
-
-Reusable Components
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚙️
-
-## Full-Stack
-
-Vue.js
-
-Laravel
-
-PHP
-
-MySQL
-
-REST APIs
-
-</td>
-
-<td width="33%" align="center">
-
-### 🏢
-
-## SaaS
-
-Multi-Tenancy
-
-Subscriptions
-
-Tenant Management
-
-Feature Access
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📚 Academic & Technical Foundation
-
-My academic background has given me a foundation in:
-
-```text
-Structured Programming
-        ↓
-Data Structures
-        ↓
-Algorithms
-        ↓
-Object-Oriented Programming
-        ↓
-Database Concepts
-        ↓
-Software Development
-        ↓
-Practical Projects
-        ↓
-Real-World Development Experience
-```
-
-I try to connect what I learn academically with practical software projects.
-
----
-
-# 🎨 UI/UX Engineering
-
-I enjoy improving interfaces and making applications easier to understand and use.
-
-```text
-┌──────────────────────────────────────────────┐
-│                 UI/UX WORKFLOW               │
-├──────────────────────────────────────────────┤
-│                                              │
-│   Understand → Structure → Design → Build    │
-│                         ↓                    │
-│                    Validate                  │
-│                         ↓                    │
-│                     Refine                   │
-│                         ↓                    │
-│                    Release                   │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-### I Care About
-
-* Clear visual hierarchy
-* Responsive layouts
-* Consistent spacing
-* Reusable components
-* Accessible interactions
-* Useful feedback states
-* Simple navigation
-* Consistent branding
-* Practical user flows
-* User-friendly interfaces
-
----
-
-# 🔥 GitHub Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=263326&title_color=A3B18A&text_color=F5F0DC&icon_color=DAD7B9"
-alt="GitHub Statistics"
-/>
+![Followers](https://img.shields.io/github/followers/Rimi-03?style=flat-square&color=34432F&labelColor=263326)
+![Repositories](https://img.shields.io/badge/Repositories-19-34432F?style=flat-square&labelColor=263326)
 
 <br/><br/>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=263326&title_color=A3B18A&text_color=F5F0DC"
-alt="Top Languages"
-/>
-
-<br/><br/>
-
-<img
-src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=263326&ring=A3B18A&fire=DAD7B9&currStreakLabel=A3B18A&sideLabels=DAD7B9&currStreakNum=F5F0DC&sideNums=F5F0DC&dates=DAD7B9"
-alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-# 🌱 Currently Learning & Improving
-
-```text
-→ Advanced Vue.js development
-→ Laravel application architecture
-→ Full-stack development
-→ Multi-tenant SaaS patterns
-→ Database design & optimization
-→ REST API development
-→ Subscription workflows
-→ Payment integration
-→ UI/UX engineering
-→ Authentication & authorization
-→ Software architecture
-→ Better debugging & problem solving
-→ Cloud & deployment workflows
-```
-
----
-
-# 🏆 Engineering Strengths
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🎨
-
-**Frontend**
-
-Vue.js
-
-JavaScript
-
-Tailwind CSS
-
-Responsive UI
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**Backend**
-
-Laravel
-
-PHP
-
-REST APIs
-
-CRUD
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️
-
-**Database**
-
-MySQL
-
-SQL
-
-Database Design
-
-Data Management
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-**Development**
-
-Git
-
-GitHub
-
-Debugging
-
-Problem Solving
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧪 How I Approach Development
-
-```text
-                    REQUIREMENT
-                         │
-                         ▼
-                    UNDERSTAND
-                         │
-                         ▼
-                      PLAN
-                         │
-                         ▼
-                      BUILD
-                         │
-                         ▼
-                       TEST
-                         │
-                         ▼
-                      DEBUG
-                         │
-                         ▼
-                      REFINE
-                         │
-                         ▼
-                       SHIP
-```
-
-I believe good software comes from combining **clear requirements, thoughtful design, practical implementation, testing, and continuous improvement**.
-
----
-
-# 🧭 Engineering Philosophy
-
-```text
-┌────────────────────────────────────────────────┐
-│             ENGINEERING PRINCIPLES             │
-├────────────────────────────────────────────────┤
-│                                                │
-│  🎯  Understand before implementing            │
-│  🎨  UX is part of good software              │
-│  🧩  Keep code understandable                 │
-│  🔒  Consider security early                  │
-│  ⚡  Performance matters                      │
-│  🏗️  Architecture should serve the product   │
-│  🧪  Test before assuming                     │
-│  📚  Learn continuously                       │
-│  🔧  Debug systematically                     │
-│  🚀  Build → Test → Improve → Ship            │
-│                                                │
-└────────────────────────────────────────────────┘
-```
-
----
-
-# 🌿 Beyond Code
-
-## 💡 Interests
-
-`Web Development` · `Frontend Engineering` · `UI/UX`
-
-`SaaS` · `Database Systems` · `Software Architecture`
-
-`Mobile Development` · `Creative Technology`
-
-I also enjoy exploring new technologies and applying what I learn through practical projects.
-
----
-
-# 📈 Development Journey
-
-```text
-        Learn
-          │
-          ▼
-       Practice
-          │
-          ▼
-       Build Projects
-          │
-          ▼
-       Face Problems
-          │
-          ▼
-        Debug
-          │
-          ▼
-       Understand
-          │
-          ▼
-        Improve
-          │
-          ▼
-         Build
-          │
-          └───────────────► Repeat
-```
-
----
-
-# 📡 Connect With Me
-
-<div align="center">
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-263326?style=for-the-badge&logo=github&logoColor=A3B18A" alt="GitHub"/>
+<a href="https://github.com/Rimi-03">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rimi-03&theme=dark"
+    alt="GitHub Profile Summary"
+    width="100%"
+  />
 </a>
-
-<!-- Add your LinkedIn URL here -->
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-263326?style=for-the-badge&logo=linkedin&logoColor=DAD7B9" alt="LinkedIn"/>
-</a>
-
-</div>
 
 <br/>
 
+<a href="https://github.com/Rimi-03">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rimi-03&theme=dark"
+    alt="Top Languages"
+    width="100%"
+  />
+</a>
+
+</div>
+
+---
+
+## 🌱 Currently Learning & Growing
+
+- Advanced Vue.js & React patterns
+- Laravel application architecture & optimization
+- Full-stack SaaS development
+- Database design & performance optimization
+- REST API design best practices
+- Authentication & authorization patterns
+- Cloud deployment workflows
+- Software testing & debugging strategies
+- Clean code & design patterns
+
+---
+
+## 🎯 Development Philosophy
+
+I believe in:
+- **Understanding before building** — Thorough planning and design
+- **User-centered development** — Creating interfaces that matter
+- **Clean, maintainable code** — Writing for others and future self
+- **Continuous improvement** — Learning from every project
+- **Practical solutions** — Building real applications, not theoretical exercises
+
+---
+
+## 🔗 Connect
+
 <div align="center">
 
-### 🌱 Build with purpose. Learn continuously. Improve with every project.
+<a href="https://github.com/Rimi-03">
+  <img src="https://img.shields.io/badge/GitHub-Rimi--03-34432F?style=flat-square&logo=github&logoColor=E8E1C8" alt="GitHub"/>
+</a>
 
 </div>
 
@@ -877,10 +238,10 @@ I also enjoy exploring new technologies and applying what I learn through practi
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:263326,25:3F5138,50:6F7F5B,75:A3B18A,100:DAD7B9&height=120&section=footer"
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:263326,25:34432F,50:56664A,75:78866B,100:E8E1C8&height=100&section=footer"
 />
 
-### `Build • Learn • Improve • Ship`
+### *Build with intention. Learn continuously. Ship with confidence.*
 
 </div>
-```
