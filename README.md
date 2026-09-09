@@ -2,7 +2,7 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:263326,25:34432F,50:56664A,75:78866B,100:E8E1C8&height=230&section=header&text=Khadiza%20Sultana%20Chowdhury&fontSize=42&fontColor=F4EEDB&desc=Building%20practical%20software%20systems&textAlignY=38&descAlignY=62"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:263326,25:34432F,50:56664A,75:78866B,100:E8E1C8&height=230&section=header&text=Khadiza%20Sultana%20Chowdhury&fontSize=42&fontColor=F4EEDB&desc=Building%20practical%20software%20systems&textAlignY=40&descAlignY=65"
 />
 
 <a href="https://readme-typing-svg.demolab.com/">
